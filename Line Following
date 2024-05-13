@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import math
 
-   
 y_max=210
 
 IN1=37
